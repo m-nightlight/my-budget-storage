@@ -1,7 +1,62 @@
 {
   "version": "1.0",
-  "syncedAt": "2026-03-11T14:27:28.927Z",
+  "syncedAt": "2026-03-11T14:48:48.186Z",
   "keys": {
+    "budget-tool-projects": [
+      {
+        "name": "Flytt till Doktor Sydows gata 3C",
+        "emoji": "🛏",
+        "description": "Flytt till stan 4:e maj. Temporärt boende",
+        "status": "planning",
+        "id": "mmm5dh03cpovz2tymks",
+        "items": [
+          {
+            "name": "Ikea Vihals 140x200",
+            "price": 2795,
+            "quantity": 1,
+            "url": "https://www.ikea.com/se/sv/p/vihals-saengstomme-med-1-undersaeng-vit-luroey-s09582027/",
+            "notes": "Enkel, men ändå mångsidig, sängstomme med undersäng för en oväntad gäst. En smart lösning som matchar de andra möblerna i serien VIHALS.",
+            "status": "considering",
+            "images": [],
+            "id": "mmm5grpx4dnyf5s4b6i",
+            "createdAt": "2026-03-11T14:44:17.878Z"
+          },
+          {
+            "name": "Ikea Valehåg madrass",
+            "price": 2995,
+            "quantity": 1,
+            "url": "https://www.ikea.com/se/sv/p/valevag-pocketresarmadrass-fast-ljusbla-00450658/",
+            "status": "considering",
+            "images": [],
+            "id": "mmm5izmzimpryjb4rml",
+            "createdAt": "2026-03-11T14:46:01.451Z"
+          },
+          {
+            "name": "Ikea Råholmar",
+            "price": 5690,
+            "quantity": 1,
+            "url": "https://www.ikea.com/se/sv/p/raholmar-resarbtn-m-pocketresarkaerna-5-zoner-inkl-ben-och-baeddmadrass-medium-fast-knisa-ljusbeige-nordberget-s29593322/",
+            "notes": "En komplett 140x200 säng istället kanske? Paket inklusive ben och bäddmadrass så ganska prisvärt.",
+            "status": "considering",
+            "images": [],
+            "id": "mmm5lenijrb0eaf40y",
+            "createdAt": "2026-03-11T14:47:54.222Z"
+          }
+        ],
+        "comparisonGroups": [
+          {
+            "name": "Vilken säng? ",
+            "id": "mmm5lvk7d8asar6d67g",
+            "options": [],
+            "createdAt": "2026-03-11T14:48:16.135Z"
+          }
+        ],
+        "createdAt": "2026-03-11T14:41:44.019Z",
+        "updatedAt": "2026-03-11T14:48:16.135Z"
+      }
+    ],
+    "budget-tool-gdrive-folder-id": "1q0aOnq_VpMDyO41VZDeQsT19rPoIY_nH",
+    "budget-tool-gdrive-client-id": "68224230230-2rf2fmrred0sffgg5cu5td5cg0683log.apps.googleusercontent.com",
     "budget-tool-transactions": [
       {
         "id": "9f48200b-7553-4766-9497-fa8ec337753e",
@@ -3872,6 +3927,7 @@
         },
         "subcategory": "Okategoriserad"
       }
-    ]
+    ],
+    "budget-tool-gdrive-folder-name": "Budget-verktyg-filer"
   }
 }
