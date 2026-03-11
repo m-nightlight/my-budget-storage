@@ -1,0 +1,3877 @@
+{
+  "version": "1.0",
+  "syncedAt": "2026-03-11T14:27:28.927Z",
+  "keys": {
+    "budget-tool-transactions": [
+      {
+        "id": "9f48200b-7553-4766-9497-fa8ec337753e",
+        "date": "2026-03-08T23:00:00.000Z",
+        "description": "Swish till SANDRA DOSÉ",
+        "amount": -468,
+        "balance": 3502.44,
+        "category": "Personlig vård",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-09",
+          "Beskrivning": "Swish till SANDRA DOSÉ",
+          "Belopp": "-468",
+          "Saldo": "3502.44"
+        },
+        "subcategory": "Frisör"
+      },
+      {
+        "id": "9ba94c27-3591-414e-a4b2-beb38ce91c27",
+        "date": "2026-03-08T23:00:00.000Z",
+        "description": "Swish till SANDRA DOSÉ AB",
+        "amount": -1095,
+        "balance": 3970.44,
+        "category": "Personlig vård",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-09",
+          "Beskrivning": "Swish till SANDRA DOSÉ AB",
+          "Belopp": "-1095",
+          "Saldo": "3970.44"
+        },
+        "subcategory": "Frisör"
+      },
+      {
+        "id": "0781a00f-3e98-4f9b-820d-520d2b3d3d98",
+        "date": "2026-03-05T23:00:00.000Z",
+        "description": "2026-03-05 THE FLYING BARREL, GOTEBORG",
+        "amount": -226.8,
+        "balance": 5065.44,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-06",
+          "Beskrivning": "2026-03-05 THE FLYING BARREL, GOTEBORG",
+          "Belopp": "-226.8",
+          "Saldo": "5065.44"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "7659fa27-5c2f-48c2-bd8b-9f16ca6a8f9d",
+        "date": "2026-03-05T23:00:00.000Z",
+        "description": "Swish till S:t Lukas i Göteborg AB",
+        "amount": -300,
+        "balance": 5292.24,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-06",
+          "Beskrivning": "Swish till S:t Lukas i Göteborg AB",
+          "Belopp": "-300",
+          "Saldo": "5292.24"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "206d24a1-0b76-475c-9d9a-84bc1451037a",
+        "date": "2026-03-05T23:00:00.000Z",
+        "description": "Månadsavgift Bankkort",
+        "amount": -20,
+        "balance": 5592.24,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-06",
+          "Beskrivning": "Månadsavgift Bankkort",
+          "Belopp": "-20",
+          "Saldo": "5592.24"
+        },
+        "subcategory": "Diverse"
+      },
+      {
+        "id": "21751c3d-0f75-4f78-a245-a95460d218f6",
+        "date": "2026-03-04T23:00:00.000Z",
+        "description": "2026-03-04 RENDER.COM, RENDER.COM",
+        "amount": -85.84,
+        "balance": 5612.24,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-05",
+          "Beskrivning": "2026-03-04 RENDER.COM, RENDER.COM",
+          "Belopp": "-85.84",
+          "Saldo": "5612.24"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "f774acc7-e124-4345-a72e-9726c081cfaf",
+        "date": "2026-03-04T23:00:00.000Z",
+        "description": "Swish till LISE PERSSON",
+        "amount": -310,
+        "balance": 5698.08,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-05",
+          "Beskrivning": "Swish till LISE PERSSON",
+          "Belopp": "-310",
+          "Saldo": "5698.08"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "83c8df9a-6a29-4b7f-adbd-bd63b90edec2",
+        "date": "2026-03-04T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 6008.08,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-05",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "6008.08"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "187d9244-5bba-4539-9839-c6561dc79fa2",
+        "date": "2026-03-02T23:00:00.000Z",
+        "description": "2026-03-02 kontaktlös FLOATING SAIGON, GOTEBORG",
+        "amount": -149,
+        "balance": 6308.08,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-03",
+          "Beskrivning": "2026-03-02 kontaktlös FLOATING SAIGON, GOTEBORG",
+          "Belopp": "-149",
+          "Saldo": "6308.08"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "e8adbbd1-e6ed-4068-816a-733487f83737",
+        "date": "2026-03-01T23:00:00.000Z",
+        "description": "2026-03-01 GOOGLE*WORKSPACE BACKS, CC GOOGLE.COM",
+        "amount": -153,
+        "balance": 6457.08,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-02",
+          "Beskrivning": "2026-03-01 GOOGLE*WORKSPACE BACKS, CC GOOGLE.COM",
+          "Belopp": "-153",
+          "Saldo": "6457.08"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "d68cdbbf-d9d2-4348-aed3-29a002fd0f55",
+        "date": "2026-03-01T23:00:00.000Z",
+        "description": "Autogiro FRISKTANDV",
+        "amount": -65,
+        "balance": 6610.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-02",
+          "Beskrivning": "Autogiro FRISKTANDV",
+          "Belopp": "-65",
+          "Saldo": "6610.08"
+        },
+        "subcategory": "Försäkring"
+      },
+      {
+        "id": "f1e5573f-a47f-457a-98f4-7f09a3c0d088",
+        "date": "2026-03-01T23:00:00.000Z",
+        "description": "Autogiro K* Klarna",
+        "amount": -417,
+        "balance": 6675.08,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-02",
+          "Beskrivning": "Autogiro K* Klarna",
+          "Belopp": "-417",
+          "Saldo": "6675.08"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "75291f8b-996b-4843-858e-838359a95a8f",
+        "date": "2026-03-01T23:00:00.000Z",
+        "description": "2026-02-28 kontaktlös STENUGNSBAGERIET LANDV, LANDVETTER",
+        "amount": -255,
+        "balance": 7092.08,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-02",
+          "Beskrivning": "2026-02-28 kontaktlös STENUGNSBAGERIET LANDV, LANDVETTER",
+          "Belopp": "-255",
+          "Saldo": "7092.08"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "e16ce104-0ade-4845-ba77-9cd5b9f33876",
+        "date": "2026-03-01T23:00:00.000Z",
+        "description": "2026-02-27 APPLE.COM/BILL, 020100529",
+        "amount": -129,
+        "balance": 7347.08,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-02",
+          "Beskrivning": "2026-02-27 APPLE.COM/BILL, 020100529",
+          "Belopp": "-129",
+          "Saldo": "7347.08"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "203d5ca9-ded8-400c-8b50-73969eb69f53",
+        "date": "2026-03-01T23:00:00.000Z",
+        "description": "2026-02-27 EPARK SESSION34802265, LULEA",
+        "amount": -35,
+        "balance": 7476.08,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-02",
+          "Beskrivning": "2026-02-27 EPARK SESSION34802265, LULEA",
+          "Belopp": "-35",
+          "Saldo": "7476.08"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "53337eae-bff8-4344-b3f9-cfd57654b7ec",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "2026-02-26 SPOTIFY, STOCKHOLM",
+        "amount": -189,
+        "balance": 7511.08,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "2026-02-26 SPOTIFY, STOCKHOLM",
+          "Belopp": "-189",
+          "Saldo": "7511.08"
+        },
+        "subcategory": "Streaming"
+      },
+      {
+        "id": "f394f39d-3582-4713-b8c5-8e04be3557a1",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "2026-02-26 KÅRRESTAURANGEN, GÖTEBORG",
+        "amount": -400,
+        "balance": 7700.08,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "2026-02-26 KÅRRESTAURANGEN, GÖTEBORG",
+          "Belopp": "-400",
+          "Saldo": "7700.08"
+        },
+        "subcategory": "Restaurang"
+      },
+      {
+        "id": "4c29ac16-953e-4622-b46b-8e6853337adf",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "2026-02-26 EPARK SESSION34770121, LULEA",
+        "amount": -50,
+        "balance": 8100.08,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "2026-02-26 EPARK SESSION34770121, LULEA",
+          "Belopp": "-50",
+          "Saldo": "8100.08"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "680e8ec7-6ca0-4fcc-92c2-b30b03c50de0",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Swish till Vimla",
+        "amount": -90,
+        "balance": 8150.08,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Swish till Vimla",
+          "Belopp": "-90",
+          "Saldo": "8150.08"
+        },
+        "subcategory": "Telefon"
+      },
+      {
+        "id": "8045f07f-c3ae-435f-8dcc-197325072b3f",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Härryda kommun",
+        "amount": -1485,
+        "balance": 8240.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Härryda kommun",
+          "Belopp": "-1485",
+          "Saldo": "8240.08"
+        },
+        "subcategory": "Förskola"
+      },
+      {
+        "id": "7f9642fa-279e-4910-be95-a94a9b055056",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Sveriges Ingenjörer",
+        "amount": -270,
+        "balance": 9725.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Sveriges Ingenjörer",
+          "Belopp": "-270",
+          "Saldo": "9725.08"
+        },
+        "subcategory": "Medlemskap"
+      },
+      {
+        "id": "bc306b47-2cdc-4056-8d75-da034a50877d",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "CSN Centrala studiestödsn",
+        "amount": -1757,
+        "balance": 9995.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "CSN Centrala studiestödsn",
+          "Belopp": "-1757",
+          "Saldo": "9995.08"
+        },
+        "subcategory": "Studielån"
+      },
+      {
+        "id": "126b63a1-b457-47f5-958c-03f16d9ea3da",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Autogiro AKADEMIKERFÖ",
+        "amount": -30,
+        "balance": 11752.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Autogiro AKADEMIKERFÖ",
+          "Belopp": "-30",
+          "Saldo": "11752.08"
+        },
+        "subcategory": "Försäkring"
+      },
+      {
+        "id": "5c1e9b6a-04b0-4850-8f6e-fb3cda8ddca6",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Autogiro Vimla",
+        "amount": -150,
+        "balance": 11782.08,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Autogiro Vimla",
+          "Belopp": "-150",
+          "Saldo": "11782.08"
+        },
+        "subcategory": "Telefon"
+      },
+      {
+        "id": "d6c27053-6bc5-482b-a930-bd915eff3b8d",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Hus Mats",
+        "amount": -5000,
+        "balance": 11932.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Hus Mats",
+          "Belopp": "-5000",
+          "Saldo": "11932.08"
+        },
+        "subcategory": "Hus"
+      },
+      {
+        "id": "4834393e-9791-42b1-8c58-41eb8f58bbc4",
+        "date": "2026-02-26T23:00:00.000Z",
+        "description": "Måbäcken",
+        "amount": -750,
+        "balance": 16932.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-27",
+          "Beskrivning": "Måbäcken",
+          "Belopp": "-750",
+          "Saldo": "16932.08"
+        },
+        "subcategory": "Hyra"
+      },
+      {
+        "id": "d532fbc9-d53a-4d75-809c-846317f228dc",
+        "date": "2026-02-25T23:00:00.000Z",
+        "description": "Överföring 9150 6269976",
+        "amount": -5000,
+        "balance": 17682.08,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-26",
+          "Beskrivning": "Överföring 9150 6269976",
+          "Belopp": "-5000",
+          "Saldo": "17682.08"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "0dc377f0-ca85-4cb4-bfcb-19a8fc889c9c",
+        "date": "2026-02-25T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -5000,
+        "balance": 22682.08,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-26",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-5000",
+          "Saldo": "22682.08"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "eeb6cc00-b805-4e8a-9d55-14bfb38e233f",
+        "date": "2026-02-25T23:00:00.000Z",
+        "description": "Autogiro AVANZA BANK",
+        "amount": -1000,
+        "balance": 27682.08,
+        "category": "Sparande",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-26",
+          "Beskrivning": "Autogiro AVANZA BANK",
+          "Belopp": "-1000",
+          "Saldo": "27682.08"
+        },
+        "subcategory": "Avanza"
+      },
+      {
+        "id": "14bd1efe-841f-480d-a3e1-1d5f3ff861d8",
+        "date": "2026-02-25T23:00:00.000Z",
+        "description": "Överföring 9156-4716688",
+        "amount": -500,
+        "balance": 28682.08,
+        "category": "Sparande",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-26",
+          "Beskrivning": "Överföring 9156-4716688",
+          "Belopp": "-500",
+          "Saldo": "28682.08"
+        },
+        "subcategory": "Sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "a0a4c20c-0b30-4da8-af0a-48135c8e1f69",
+        "date": "2026-02-24T23:00:00.000Z",
+        "description": "2026-02-24 kontaktlös SUSHI LANDVETTER, LANDVETTER",
+        "amount": -145,
+        "balance": 29182.08,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-25",
+          "Beskrivning": "2026-02-24 kontaktlös SUSHI LANDVETTER, LANDVETTER",
+          "Belopp": "-145",
+          "Saldo": "29182.08"
+        },
+        "subcategory": "Restaurang"
+      },
+      {
+        "id": "f1bf49f1-c994-408d-baca-ef68b7ea2325",
+        "date": "2026-02-24T23:00:00.000Z",
+        "description": "Autogiro K*HBO Nordic",
+        "amount": -149,
+        "balance": 29327.08,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-25",
+          "Beskrivning": "Autogiro K*HBO Nordic",
+          "Belopp": "-149",
+          "Saldo": "29327.08"
+        },
+        "subcategory": "Streaming"
+      },
+      {
+        "id": "eac6e376-c27d-40f2-b132-6608718e014a",
+        "date": "2026-02-24T23:00:00.000Z",
+        "description": "LÖN",
+        "amount": 28337.9,
+        "balance": 29476.08,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-25",
+          "Beskrivning": "LÖN",
+          "Belopp": "28337.9",
+          "Saldo": "29476.08"
+        },
+        "subcategory": "Lön"
+      },
+      {
+        "id": "9e8c1e04-d6c1-452f-9ba1-fd3c63f30f66",
+        "date": "2026-02-23T23:00:00.000Z",
+        "description": "2026-02-23 EPARK SESSION34680339, LULEA",
+        "amount": -50,
+        "balance": 1138.18,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-24",
+          "Beskrivning": "2026-02-23 EPARK SESSION34680339, LULEA",
+          "Belopp": "-50",
+          "Saldo": "1138.18"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "57dcec2f-73c5-4373-b911-1f70fada73ce",
+        "date": "2026-02-22T23:00:00.000Z",
+        "description": "2026-02-20 CLAUDE.AI SUBSCRIPTION, ANTHROPIC.COM",
+        "amount": -244.83,
+        "balance": 1188.18,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-23",
+          "Beskrivning": "2026-02-20 CLAUDE.AI SUBSCRIPTION, ANTHROPIC.COM",
+          "Belopp": "-244.83",
+          "Saldo": "1188.18"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "a2cb8cec-e46e-4a41-b0f5-798ed3716415",
+        "date": "2026-02-19T23:00:00.000Z",
+        "description": "2026-02-19 EPARK SESSION34589259, LULEA",
+        "amount": -50,
+        "balance": 1433.01,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-20",
+          "Beskrivning": "2026-02-19 EPARK SESSION34589259, LULEA",
+          "Belopp": "-50",
+          "Saldo": "1433.01"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "46869a71-d04a-40ce-89e7-0fc454461bd3",
+        "date": "2026-02-19T23:00:00.000Z",
+        "description": "Insättning från annan bank BARNBDR",
+        "amount": 1325,
+        "balance": 1483.01,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-20",
+          "Beskrivning": "Insättning från annan bank BARNBDR",
+          "Belopp": "1325",
+          "Saldo": "1483.01"
+        },
+        "subcategory": "Barnbidrag"
+      },
+      {
+        "id": "907e1479-94c1-4de7-a17c-8a8079a9cb5a",
+        "date": "2026-02-18T23:00:00.000Z",
+        "description": "2026-02-18 Pressbyr}n 4025133, Göteborg",
+        "amount": -29,
+        "balance": 158.01,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-19",
+          "Beskrivning": "2026-02-18 Pressbyr}n 4025133, Göteborg",
+          "Belopp": "-29",
+          "Saldo": "158.01"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "9c8f87ab-acc3-4601-95f7-92745d6890d3",
+        "date": "2026-02-18T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 187.01,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-19",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "187.01"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "972aab51-3774-454e-af10-b0529f860750",
+        "date": "2026-02-17T23:00:00.000Z",
+        "description": "2026-02-17 WASTE, GÖTEBORG",
+        "amount": -135,
+        "balance": 487.01,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-18",
+          "Beskrivning": "2026-02-17 WASTE, GÖTEBORG",
+          "Belopp": "-135",
+          "Saldo": "487.01"
+        },
+        "subcategory": "Diverse"
+      },
+      {
+        "id": "65195685-b5f8-4c61-a1e8-a24e00c098b2",
+        "date": "2026-02-16T23:00:00.000Z",
+        "description": "2026-02-16 EPARK SESSION34499338, LULEA",
+        "amount": -50,
+        "balance": 622.01,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-17",
+          "Beskrivning": "2026-02-16 EPARK SESSION34499338, LULEA",
+          "Belopp": "-50",
+          "Saldo": "622.01"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "b1a1d6a7-4e2d-4a31-a5ea-6147e5cccc48",
+        "date": "2026-02-16T23:00:00.000Z",
+        "description": "2026-02-15 OKQ8, GÖTEBORG",
+        "amount": -517.55,
+        "balance": 672.01,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-17",
+          "Beskrivning": "2026-02-15 OKQ8, GÖTEBORG",
+          "Belopp": "-517.55",
+          "Saldo": "672.01"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "706bb4a4-f7ff-4926-a4eb-06fc248a3cfc",
+        "date": "2026-02-15T23:00:00.000Z",
+        "description": "2026-02-15 THAI SAMILA LANDVETTER, LANDVETTER",
+        "amount": -310,
+        "balance": 1189.56,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-16",
+          "Beskrivning": "2026-02-15 THAI SAMILA LANDVETTER, LANDVETTER",
+          "Belopp": "-310",
+          "Saldo": "1189.56"
+        },
+        "subcategory": "Restaurang"
+      },
+      {
+        "id": "96564490-ea55-4c71-8436-53d8a4f187a7",
+        "date": "2026-02-15T23:00:00.000Z",
+        "description": "Swish till Västtrafik To Go",
+        "amount": -1295,
+        "balance": 1499.56,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-16",
+          "Beskrivning": "Swish till Västtrafik To Go",
+          "Belopp": "-1295",
+          "Saldo": "1499.56"
+        },
+        "subcategory": "Kollektivtrafik"
+      },
+      {
+        "id": "eb258fbe-62c5-4c85-83d4-c466dab0a21d",
+        "date": "2026-02-15T23:00:00.000Z",
+        "description": "BG 5134-7698 Draen Förvaltning",
+        "amount": -1135,
+        "balance": 2794.56,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-16",
+          "Beskrivning": "BG 5134-7698 Draen Förvaltning",
+          "Belopp": "-1135",
+          "Saldo": "2794.56"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "a9de4cd0-8e7f-4cc9-9f70-0dd9f0b3ded1",
+        "date": "2026-02-15T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 2000,
+        "balance": 3929.56,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-16",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "2000",
+          "Saldo": "3929.56"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "7146cee0-4eaa-444b-a4c2-8ff16e8a34e4",
+        "date": "2026-02-15T23:00:00.000Z",
+        "description": "Swish till Happy Order",
+        "amount": -205,
+        "balance": 1929.56,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-16",
+          "Beskrivning": "Swish till Happy Order",
+          "Belopp": "-205",
+          "Saldo": "1929.56"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "b8aec6dd-696f-46ac-b6ac-267a4f5da332",
+        "date": "2026-02-12T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 1500,
+        "balance": 2134.56,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-13",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "1500",
+          "Saldo": "2134.56"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "62b8d376-e520-4528-8d05-1a6d056e66de",
+        "date": "2026-02-11T23:00:00.000Z",
+        "description": "Swish till Mcompany",
+        "amount": -456.3,
+        "balance": 634.56,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-12",
+          "Beskrivning": "Swish till Mcompany",
+          "Belopp": "-456.3",
+          "Saldo": "634.56"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "647cefcf-ea8f-4dbf-b61d-162945f75158",
+        "date": "2026-02-11T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 800,
+        "balance": 1090.86,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-12",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "800",
+          "Saldo": "1090.86"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "8363bd03-e512-471d-9bfd-6a5af9101628",
+        "date": "2026-02-09T23:00:00.000Z",
+        "description": "Swish till Walley",
+        "amount": -445,
+        "balance": 290.86,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-10",
+          "Beskrivning": "Swish till Walley",
+          "Belopp": "-445",
+          "Saldo": "290.86"
+        },
+        "subcategory": "Online"
+      },
+      {
+        "id": "40f14dbc-49dd-4cbb-8bfe-962ad0aacd9a",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "2026-02-08 WARDSHUSET NILS HOLG, SUNNE",
+        "amount": -420,
+        "balance": 735.86,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "2026-02-08 WARDSHUSET NILS HOLG, SUNNE",
+          "Belopp": "-420",
+          "Saldo": "735.86"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "77a25066-596c-47c0-97cf-9f340520fc85",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "Swish från Ellinor Liliegård",
+        "amount": 100,
+        "balance": 1155.86,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "Swish från Ellinor Liliegård",
+          "Belopp": "100",
+          "Saldo": "1155.86"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "805746a9-9392-443a-a7ad-a07c38f3ad56",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "Swish till Walley",
+        "amount": -2595,
+        "balance": 1055.86,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "Swish till Walley",
+          "Belopp": "-2595",
+          "Saldo": "1055.86"
+        },
+        "subcategory": "Online"
+      },
+      {
+        "id": "ad1252fe-1aa0-4e37-81cc-d1d46f45027a",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "liftkort",
+        "amount": 2500,
+        "balance": 3650.86,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "liftkort",
+          "Belopp": "2500",
+          "Saldo": "3650.86"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "317c40b8-53bb-4efd-9c5d-458fb7924dea",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "2026-02-06 PARKERING GÖTEB, GÖTEBORG",
+        "amount": -30,
+        "balance": 1150.86,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "2026-02-06 PARKERING GÖTEB, GÖTEBORG",
+          "Belopp": "-30",
+          "Saldo": "1150.86"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "edfb9118-831a-4013-8859-c68d55f67aaf",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 1000,
+        "balance": 1180.86,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "1000",
+          "Saldo": "1180.86"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "e4cf547e-6cbf-40f2-a6b3-78bb6a637dd4",
+        "date": "2026-02-05T23:00:00.000Z",
+        "description": "2026-02-05 MAMAYA, GOTEBORG",
+        "amount": -139,
+        "balance": 180.86,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-06",
+          "Beskrivning": "2026-02-05 MAMAYA, GOTEBORG",
+          "Belopp": "-139",
+          "Saldo": "180.86"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "7d4de464-a526-45fb-b89f-293c9282317a",
+        "date": "2026-02-05T23:00:00.000Z",
+        "description": "Månadsavgift Bankkort",
+        "amount": -20,
+        "balance": 319.86,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-06",
+          "Beskrivning": "Månadsavgift Bankkort",
+          "Belopp": "-20",
+          "Saldo": "319.86"
+        },
+        "subcategory": "Diverse"
+      },
+      {
+        "id": "1e68fcda-f6ff-41fe-acc7-b5fdf1b20a35",
+        "date": "2026-02-04T23:00:00.000Z",
+        "description": "2026-02-04 RENDER.COM, RENDER.COM",
+        "amount": -66.35,
+        "balance": 339.86,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-05",
+          "Beskrivning": "2026-02-04 RENDER.COM, RENDER.COM",
+          "Belopp": "-66.35",
+          "Saldo": "339.86"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "9fe0c330-3849-4a2c-95a1-4c48a107c3e4",
+        "date": "2026-02-04T23:00:00.000Z",
+        "description": "2026-02-04 KÅRRESTAURANGEN, GÖTEBORG",
+        "amount": -400,
+        "balance": 406.21,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-05",
+          "Beskrivning": "2026-02-04 KÅRRESTAURANGEN, GÖTEBORG",
+          "Belopp": "-400",
+          "Saldo": "406.21"
+        },
+        "subcategory": "Restaurang"
+      },
+      {
+        "id": "2181dcf2-dc4b-47e3-a277-7ab8254496a1",
+        "date": "2026-02-04T23:00:00.000Z",
+        "description": "2026-02-04 EPARK SESSION34203721, LULEA",
+        "amount": -50,
+        "balance": 806.21,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-05",
+          "Beskrivning": "2026-02-04 EPARK SESSION34203721, LULEA",
+          "Belopp": "-50",
+          "Saldo": "806.21"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "66a21e8d-b4ec-424d-b292-a82b9f1c5188",
+        "date": "2026-02-03T23:00:00.000Z",
+        "description": "Swish till Qliro AB",
+        "amount": -391,
+        "balance": 856.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-04",
+          "Beskrivning": "Swish till Qliro AB",
+          "Belopp": "-391",
+          "Saldo": "856.21"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "4af84318-613e-4036-8fca-3155c39ecc81",
+        "date": "2026-02-01T23:00:00.000Z",
+        "description": "2026-02-01 GOOGLE*WORKSPACE BACKS, CC GOOGLE.COM",
+        "amount": -153,
+        "balance": 1247.21,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-02",
+          "Beskrivning": "2026-02-01 GOOGLE*WORKSPACE BACKS, CC GOOGLE.COM",
+          "Belopp": "-153",
+          "Saldo": "1247.21"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "6ea060ac-4385-4563-b2d7-a43bcb3dbe50",
+        "date": "2026-02-01T23:00:00.000Z",
+        "description": "Överföring 9159 5937589",
+        "amount": -7000,
+        "balance": 1400.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-02",
+          "Beskrivning": "Överföring 9159 5937589",
+          "Belopp": "-7000",
+          "Saldo": "1400.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "48084144-4ed4-47c0-8e96-0712ab2859b0",
+        "date": "2026-02-01T23:00:00.000Z",
+        "description": "2026-01-31 RentSki AB, Stöllet",
+        "amount": -970,
+        "balance": 8400.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-02",
+          "Beskrivning": "2026-01-31 RentSki AB, Stöllet",
+          "Belopp": "-970",
+          "Saldo": "8400.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "300dfed6-c2e4-44d0-bef2-2ac62621365d",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "2026-01-29 EPARK SESSION34050626, LULEA",
+        "amount": -50,
+        "balance": 9370.21,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "2026-01-29 EPARK SESSION34050626, LULEA",
+          "Belopp": "-50",
+          "Saldo": "9370.21"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "7db7bef2-e663-433d-8a10-9ec267ae1424",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "2026-01-29 APPLE.COM/BILL, CORK",
+        "amount": -129,
+        "balance": 9420.21,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "2026-01-29 APPLE.COM/BILL, CORK",
+          "Belopp": "-129",
+          "Saldo": "9420.21"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "8c5f42e3-4c97-417a-912c-0af6a6683c80",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "Bankgiro insättning STUDENTAPAN",
+        "amount": 284,
+        "balance": 9549.21,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "Bankgiro insättning STUDENTAPAN",
+          "Belopp": "284",
+          "Saldo": "9549.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "e8413338-9d87-4f62-af38-9cd720051629",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 9265.21,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "9265.21"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "b70a2632-b5e5-485e-8c8e-bb9ad1c4c46d",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "Autogiro AKADEMIKERFÖ",
+        "amount": -30,
+        "balance": 9565.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "Autogiro AKADEMIKERFÖ",
+          "Belopp": "-30",
+          "Saldo": "9565.21"
+        },
+        "subcategory": "Försäkring"
+      },
+      {
+        "id": "7e5c725b-261a-49e4-9961-b0c23fe4dfaf",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "CSN Centrala studiestödsn",
+        "amount": -1757,
+        "balance": 9595.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "CSN Centrala studiestödsn",
+          "Belopp": "-1757",
+          "Saldo": "9595.21"
+        },
+        "subcategory": "Studielån"
+      },
+      {
+        "id": "81e65211-01cf-4c75-a4ec-0640d9775d7e",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "Sveriges Ingenjörer",
+        "amount": -270,
+        "balance": 11352.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "Sveriges Ingenjörer",
+          "Belopp": "-270",
+          "Saldo": "11352.21"
+        },
+        "subcategory": "Medlemskap"
+      },
+      {
+        "id": "a65115a6-75f5-49f7-b696-209d4e3533fb",
+        "date": "2026-01-29T23:00:00.000Z",
+        "description": "Härryda kommun",
+        "amount": -1485,
+        "balance": 11622.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-30",
+          "Beskrivning": "Härryda kommun",
+          "Belopp": "-1485",
+          "Saldo": "11622.21"
+        },
+        "subcategory": "Förskola"
+      },
+      {
+        "id": "d26efd7a-a2b9-4e4d-ba5b-3c1276dd5b39",
+        "date": "2026-01-27T23:00:00.000Z",
+        "description": "2026-01-27 OOTO, GÖTEBORG",
+        "amount": -125,
+        "balance": 13107.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-28",
+          "Beskrivning": "2026-01-27 OOTO, GÖTEBORG",
+          "Belopp": "-125",
+          "Saldo": "13107.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "156be08f-c6f9-46d3-b69c-90b64a5f059a",
+        "date": "2026-01-27T23:00:00.000Z",
+        "description": "2026-01-27 EPARK SESSION33988337, LULEA",
+        "amount": -50,
+        "balance": 13232.21,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-28",
+          "Beskrivning": "2026-01-27 EPARK SESSION33988337, LULEA",
+          "Belopp": "-50",
+          "Saldo": "13232.21"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "e00f5a18-a6ff-41ef-a66f-6577443517aa",
+        "date": "2026-01-27T23:00:00.000Z",
+        "description": "Autogiro FRISKTANDV",
+        "amount": -65,
+        "balance": 13282.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-28",
+          "Beskrivning": "Autogiro FRISKTANDV",
+          "Belopp": "-65",
+          "Saldo": "13282.21"
+        },
+        "subcategory": "Försäkring"
+      },
+      {
+        "id": "841a088a-e6c1-42f1-a675-e163664cf289",
+        "date": "2026-01-27T23:00:00.000Z",
+        "description": "Måbäcken",
+        "amount": -750,
+        "balance": 13347.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-28",
+          "Beskrivning": "Måbäcken",
+          "Belopp": "-750",
+          "Saldo": "13347.21"
+        },
+        "subcategory": "Hyra"
+      },
+      {
+        "id": "0941c495-904e-4acf-a3ae-aa22b342e07a",
+        "date": "2026-01-26T23:00:00.000Z",
+        "description": "2026-01-26 SPOTIFY, STOCKHOLM",
+        "amount": -189,
+        "balance": 14097.21,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-27",
+          "Beskrivning": "2026-01-26 SPOTIFY, STOCKHOLM",
+          "Belopp": "-189",
+          "Saldo": "14097.21"
+        },
+        "subcategory": "Streaming"
+      },
+      {
+        "id": "2525c81b-602b-4722-acc8-b5bfacf1a9f7",
+        "date": "2026-01-26T23:00:00.000Z",
+        "description": "Autogiro K*HBO Nordic",
+        "amount": -149,
+        "balance": 14286.21,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-27",
+          "Beskrivning": "Autogiro K*HBO Nordic",
+          "Belopp": "-149",
+          "Saldo": "14286.21"
+        },
+        "subcategory": "Streaming"
+      },
+      {
+        "id": "695117cd-a129-4d38-9df6-6660278985a7",
+        "date": "2026-01-26T23:00:00.000Z",
+        "description": "Hus Mats",
+        "amount": -5000,
+        "balance": 14435.21,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-27",
+          "Beskrivning": "Hus Mats",
+          "Belopp": "-5000",
+          "Saldo": "14435.21"
+        },
+        "subcategory": "Hus"
+      },
+      {
+        "id": "483cd100-a449-49b2-8cdb-3671398ef37e",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Gemensamma kontot",
+        "amount": -5000,
+        "balance": 19435.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Gemensamma kontot",
+          "Belopp": "-5000",
+          "Saldo": "19435.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "ec46a896-3ebd-42ec-ad84-28c2450e9fb8",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Fel Mats",
+        "amount": 5000,
+        "balance": 24435.21,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Fel Mats",
+          "Belopp": "5000",
+          "Saldo": "24435.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "65949231-dde9-400a-a076-5cb6e04db0e0",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Överföring 9150 6269976",
+        "amount": -5000,
+        "balance": 19435.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Överföring 9150 6269976",
+          "Belopp": "-5000",
+          "Saldo": "19435.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "05f74278-7b63-44f0-9faf-1e9c4a64c581",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Autogiro K*PREMIUM HA",
+        "amount": -30,
+        "balance": 24435.21,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Autogiro K*PREMIUM HA",
+          "Belopp": "-30",
+          "Saldo": "24435.21"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "c8914c84-fe28-4ab9-98b7-2fb6098893a2",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Autogiro K*AEROSEUM",
+        "amount": -390,
+        "balance": 24465.21,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Autogiro K*AEROSEUM",
+          "Belopp": "-390",
+          "Saldo": "24465.21"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "34e5540d-261b-43f8-8db7-c19c289463b7",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Autogiro Qliro",
+        "amount": -723,
+        "balance": 24855.21,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Autogiro Qliro",
+          "Belopp": "-723",
+          "Saldo": "24855.21"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "2ba565ec-d2c0-4633-b25a-06f9b05e979c",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Autogiro AVANZA BANK",
+        "amount": -1000,
+        "balance": 25578.21,
+        "category": "Sparande",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Autogiro AVANZA BANK",
+          "Belopp": "-1000",
+          "Saldo": "25578.21"
+        },
+        "subcategory": "Avanza"
+      },
+      {
+        "id": "4486041e-bb21-492d-9d1b-010c3b641bc8",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Autogiro K* Klarna",
+        "amount": -1070.26,
+        "balance": 26578.21,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Autogiro K* Klarna",
+          "Belopp": "-1070.26",
+          "Saldo": "26578.21"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "f323abd8-b918-43f0-946f-dfa7cdeef931",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Överföring 9156-4716688",
+        "amount": -500,
+        "balance": 27648.47,
+        "category": "Sparande",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Överföring 9156-4716688",
+          "Belopp": "-500",
+          "Saldo": "27648.47"
+        },
+        "subcategory": "Sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "5883e923-ca3b-4f7a-b9db-994946a23323",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "LÖN",
+        "amount": 27690.6,
+        "balance": 28148.47,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "LÖN",
+          "Belopp": "27690.6",
+          "Saldo": "28148.47"
+        },
+        "subcategory": "Lön"
+      },
+      {
+        "id": "1eba95e3-a45e-446d-86e3-d959f2eb7030",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "Swish till LANDEHOF, OK",
+        "amount": -45,
+        "balance": 457.87,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "Swish till LANDEHOF, OK",
+          "Belopp": "-45",
+          "Saldo": "457.87"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "6fd66afe-74f8-4f45-a8b6-516eb22ea14e",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "2026-01-23 PARKERING GÖTEB, GÖTEBORG",
+        "amount": -30,
+        "balance": 502.87,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "2026-01-23 PARKERING GÖTEB, GÖTEBORG",
+          "Belopp": "-30",
+          "Saldo": "502.87"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "e82e4094-190c-4be7-bc89-9f19c35fe6e9",
+        "date": "2026-01-25T23:00:00.000Z",
+        "description": "2026-01-23 Systembolaget, GÖTEBORG",
+        "amount": -214,
+        "balance": 532.87,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-26",
+          "Beskrivning": "2026-01-23 Systembolaget, GÖTEBORG",
+          "Belopp": "-214",
+          "Saldo": "532.87"
+        },
+        "subcategory": "Systembolaget"
+      },
+      {
+        "id": "f79e9565-46c3-4bc4-9103-67c7df165f32",
+        "date": "2026-01-21T23:00:00.000Z",
+        "description": "2026-01-21 EPARK SESSION33836918, LULEA",
+        "amount": -50,
+        "balance": 746.87,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-22",
+          "Beskrivning": "2026-01-21 EPARK SESSION33836918, LULEA",
+          "Belopp": "-50",
+          "Saldo": "746.87"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "ef0fae06-7181-44f0-bc90-4cfc3119f4b7",
+        "date": "2026-01-21T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 796.87,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-22",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "796.87"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "3a8b15b7-2ca7-433f-a56b-76c0603a2c25",
+        "date": "2026-01-20T23:00:00.000Z",
+        "description": "2026-01-20 CLAUDE.AI SUBSCRIPTION, ANTHROPIC.COM",
+        "amount": -245.85,
+        "balance": 1096.87,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-21",
+          "Beskrivning": "2026-01-20 CLAUDE.AI SUBSCRIPTION, ANTHROPIC.COM",
+          "Belopp": "-245.85",
+          "Saldo": "1096.87"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "cbfad6c6-1be0-491c-a8e0-511fdbe153ca",
+        "date": "2026-01-20T23:00:00.000Z",
+        "description": "2026-01-20 DELISSIMO OJERSJO, OJERSJO",
+        "amount": -278,
+        "balance": 1342.72,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-21",
+          "Beskrivning": "2026-01-20 DELISSIMO OJERSJO, OJERSJO",
+          "Belopp": "-278",
+          "Saldo": "1342.72"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "878ed0fe-958d-41e3-aa27-a335f056c77e",
+        "date": "2026-01-19T23:00:00.000Z",
+        "description": "2026-01-19 EPARK SESSION33778165, LULEA",
+        "amount": -50,
+        "balance": 1620.72,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-20",
+          "Beskrivning": "2026-01-19 EPARK SESSION33778165, LULEA",
+          "Belopp": "-50",
+          "Saldo": "1620.72"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "e3ea031b-cafe-4872-9007-a6e2f2dd5ce2",
+        "date": "2026-01-19T23:00:00.000Z",
+        "description": "Insättning från annan bank BARNBDR",
+        "amount": 1325,
+        "balance": 1670.72,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-20",
+          "Beskrivning": "Insättning från annan bank BARNBDR",
+          "Belopp": "1325",
+          "Saldo": "1670.72"
+        },
+        "subcategory": "Barnbidrag"
+      },
+      {
+        "id": "24e4d87d-392b-4f8a-a532-089992607176",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "Swish från Christian Peder Genne",
+        "amount": 100,
+        "balance": 345.72,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "Swish från Christian Peder Genne",
+          "Belopp": "100",
+          "Saldo": "345.72"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "e8a69f91-1087-4f4f-9c67-4b998153e546",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 245.72,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "245.72"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "e89624cf-98b6-4677-a45e-fefc8a4ab485",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 500,
+        "balance": 545.72,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "500",
+          "Saldo": "545.72"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "d66bea19-8a10-42c2-9d0f-f13761eeea54",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "2026-01-16 TORESTORPPIZZERIA, TORESTORP",
+        "amount": -140,
+        "balance": 45.72,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "2026-01-16 TORESTORPPIZZERIA, TORESTORP",
+          "Belopp": "-140",
+          "Saldo": "45.72"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "3ead4d5a-175c-455d-a85d-71297d6f34a4",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "2026-01-16 WILLYS SKENE C, SKENE",
+        "amount": -282.6,
+        "balance": 185.72,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "2026-01-16 WILLYS SKENE C, SKENE",
+          "Belopp": "-282.6",
+          "Saldo": "185.72"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "46ce97b9-75df-4121-8275-81af2d8bd5bb",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "2026-01-16 ICA KVANTUM MM, SKENE",
+        "amount": -245.24,
+        "balance": 468.32,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "2026-01-16 ICA KVANTUM MM, SKENE",
+          "Belopp": "-245.24",
+          "Saldo": "468.32"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "8d94303b-22c6-49b4-859a-97cccd578bd0",
+        "date": "2026-01-15T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 700,
+        "balance": 713.56,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-16",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "700",
+          "Saldo": "713.56"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "d8e37431-8585-478a-b213-eb945437ade9",
+        "date": "2026-01-14T23:00:00.000Z",
+        "description": "2026-01-14 EPARK SESSION33660395, LULEA",
+        "amount": -47,
+        "balance": 13.56,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-15",
+          "Beskrivning": "2026-01-14 EPARK SESSION33660395, LULEA",
+          "Belopp": "-47",
+          "Saldo": "13.56"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "9d15e05d-beda-42f1-b050-ee623a6268e2",
+        "date": "2026-01-14T23:00:00.000Z",
+        "description": "2026-01-14 WILLYS LANDVETTER C, LANDVETTER",
+        "amount": -458.05,
+        "balance": 60.56,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-15",
+          "Beskrivning": "2026-01-14 WILLYS LANDVETTER C, LANDVETTER",
+          "Belopp": "-458.05",
+          "Saldo": "60.56"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "f8084dd1-8a0f-4301-ba4b-e0c8e8980384",
+        "date": "2026-01-13T23:00:00.000Z",
+        "description": "2026-01-13 LILLA HANOI PAX, GOTEBORG",
+        "amount": -250,
+        "balance": 518.61,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-14",
+          "Beskrivning": "2026-01-13 LILLA HANOI PAX, GOTEBORG",
+          "Belopp": "-250",
+          "Saldo": "518.61"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "56475df4-8896-4efc-b27b-8be03b93388c",
+        "date": "2026-01-13T23:00:00.000Z",
+        "description": "2026-01-13 EPARK SESSION33631433, LULEA",
+        "amount": -50,
+        "balance": 768.61,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-14",
+          "Beskrivning": "2026-01-13 EPARK SESSION33631433, LULEA",
+          "Belopp": "-50",
+          "Saldo": "768.61"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "d3df9430-fa6f-4cf8-b478-d22cbf40866f",
+        "date": "2026-01-13T23:00:00.000Z",
+        "description": "Chalmers Kåravgift",
+        "amount": -190,
+        "balance": 818.61,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-14",
+          "Beskrivning": "Chalmers Kåravgift",
+          "Belopp": "-190",
+          "Saldo": "818.61"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "bcaf2cbc-df2c-40f4-b754-5cdaad537b1c",
+        "date": "2026-01-12T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 500,
+        "balance": 1008.61,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-13",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "500",
+          "Saldo": "1008.61"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "6cfa8721-4274-448f-b66e-04f92e9d3f86",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "2026-01-11 APCOA FLOW SE, STOCKHOLM",
+        "amount": -20.95,
+        "balance": 508.61,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "2026-01-11 APCOA FLOW SE, STOCKHOLM",
+          "Belopp": "-20.95",
+          "Saldo": "508.61"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "978a3d23-cc50-4d4e-9d3d-0890ba31440c",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "2026-01-11 XXL SPORT & VIL, HISINGS BACK",
+        "amount": -523,
+        "balance": 529.56,
+        "category": "Träning",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "2026-01-11 XXL SPORT & VIL, HISINGS BACK",
+          "Belopp": "-523",
+          "Saldo": "529.56"
+        },
+        "subcategory": "Utrustning"
+      },
+      {
+        "id": "678e77bf-7cbd-4216-b7ee-1714a38933cb",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 1052.56,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "1052.56"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "757e10b5-0581-4a5e-85d7-9b16467837a8",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Swish till Västtrafik To Go",
+        "amount": -962,
+        "balance": 1352.56,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Swish till Västtrafik To Go",
+          "Belopp": "-962",
+          "Saldo": "1352.56"
+        },
+        "subcategory": "Kollektivtrafik"
+      },
+      {
+        "id": "ab48c3a3-afbf-4352-a7c0-c11f84178e19",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 1500,
+        "balance": 2314.56,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "1500",
+          "Saldo": "2314.56"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "19e3c53d-9f70-4cbe-ac5b-b956a3fdd501",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Swish till Electrokit",
+        "amount": -394,
+        "balance": 814.56,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Swish till Electrokit",
+          "Belopp": "-394",
+          "Saldo": "814.56"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "7e5763f0-f7f1-460f-806a-ec3f9d3eb78f",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Swish återbet. från Walley",
+        "amount": 339,
+        "balance": 1208.56,
+        "category": "Shopping",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Swish återbet. från Walley",
+          "Belopp": "339",
+          "Saldo": "1208.56"
+        },
+        "subcategory": "Online"
+      },
+      {
+        "id": "027dc82f-8d4a-4ce5-9375-bae3f46d35f0",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "2026-01-09 EPARK SESSION33546944, LULEA",
+        "amount": -50,
+        "balance": 869.56,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "2026-01-09 EPARK SESSION33546944, LULEA",
+          "Belopp": "-50",
+          "Saldo": "869.56"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "7a5213a1-8552-4bcc-b2c9-f35ea1a42f11",
+        "date": "2026-01-08T23:00:00.000Z",
+        "description": "Boplats Göteborg AB",
+        "amount": -200,
+        "balance": 919.56,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-09",
+          "Beskrivning": "Boplats Göteborg AB",
+          "Belopp": "-200",
+          "Saldo": "919.56"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "505ea8b3-3767-4f17-a82a-bddeff81372d",
+        "date": "2026-01-06T23:00:00.000Z",
+        "description": "2026-01-06 EPARK PERMIT994585, LULEA",
+        "amount": -400,
+        "balance": 1119.56,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-07",
+          "Beskrivning": "2026-01-06 EPARK PERMIT994585, LULEA",
+          "Belopp": "-400",
+          "Saldo": "1119.56"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "05f88a1e-959f-4e59-9e6b-e157605e8bd6",
+        "date": "2026-01-06T23:00:00.000Z",
+        "description": "Månadsavgift Bankkort",
+        "amount": -20,
+        "balance": 1519.56,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-07",
+          "Beskrivning": "Månadsavgift Bankkort",
+          "Belopp": "-20",
+          "Saldo": "1519.56"
+        },
+        "subcategory": "Diverse"
+      },
+      {
+        "id": "81f23dc0-7f88-46a2-a902-2d67667a9f14",
+        "date": "2026-01-06T23:00:00.000Z",
+        "description": "Swish till Vimla",
+        "amount": -79,
+        "balance": 1539.56,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-07",
+          "Beskrivning": "Swish till Vimla",
+          "Belopp": "-79",
+          "Saldo": "1539.56"
+        },
+        "subcategory": "Telefon"
+      },
+      {
+        "id": "d6456156-721f-4c47-8711-92be05ddaa80",
+        "date": "2026-01-04T23:00:00.000Z",
+        "description": "2026-01-04 ST1 PLOQ LJUNGSKILE, LILLA EDET",
+        "amount": -54,
+        "balance": 1618.56,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-05",
+          "Beskrivning": "2026-01-04 ST1 PLOQ LJUNGSKILE, LILLA EDET",
+          "Belopp": "-54",
+          "Saldo": "1618.56"
+        },
+        "subcategory": "Bensin"
+      },
+      {
+        "id": "d3a46dba-0293-4fc5-b5d5-412b9821a40d",
+        "date": "2026-01-04T23:00:00.000Z",
+        "description": "2026-01-04 RENDER.COM, RENDER.COM",
+        "amount": -68.17,
+        "balance": 1672.56,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-05",
+          "Beskrivning": "2026-01-04 RENDER.COM, RENDER.COM",
+          "Belopp": "-68.17",
+          "Saldo": "1672.56"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "0c142b58-c477-4c5e-92e0-a65f1d6f8f0c",
+        "date": "2026-01-01T23:00:00.000Z",
+        "description": "2026-01-01 GOOGLE*WORKSPACE BACKS, CC GOOGLE.COM",
+        "amount": -153,
+        "balance": 1740.73,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-02",
+          "Beskrivning": "2026-01-01 GOOGLE*WORKSPACE BACKS, CC GOOGLE.COM",
+          "Belopp": "-153",
+          "Saldo": "1740.73"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "100d5959-3bce-41dc-bdf8-539aa2c7855c",
+        "date": "2026-01-01T23:00:00.000Z",
+        "description": "Swish till Swedbank Pay",
+        "amount": -1390,
+        "balance": 1893.73,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-02",
+          "Beskrivning": "Swish till Swedbank Pay",
+          "Belopp": "-1390",
+          "Saldo": "1893.73"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "5282feb7-5741-4ee2-9723-900350f60ffc",
+        "date": "2026-01-01T23:00:00.000Z",
+        "description": "2025-12-30 LOFSDALENSFJLLANLGGNIN, LOFSDALEN",
+        "amount": -1115,
+        "balance": 3283.73,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-02",
+          "Beskrivning": "2025-12-30 LOFSDALENSFJLLANLGGNIN, LOFSDALEN",
+          "Belopp": "-1115",
+          "Saldo": "3283.73"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "12c049ca-0838-48d3-b27f-5a33a9dcc92f",
+        "date": "2025-12-30T23:00:00.000Z",
+        "description": "Ränta på tillgodohavandet",
+        "amount": 0.32,
+        "balance": 4398.73,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-31",
+          "Beskrivning": "Ränta på tillgodohavandet",
+          "Belopp": "0.32",
+          "Saldo": "4398.73"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "c18ceedf-6449-4a36-ba4d-73583cd5945c",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "2025-12-29 ICA NARA LOFSDALEN, LOFSDALEN",
+        "amount": -1044.97,
+        "balance": 4398.41,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "2025-12-29 ICA NARA LOFSDALEN, LOFSDALEN",
+          "Belopp": "-1044.97",
+          "Saldo": "4398.41"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "d91f2953-f501-49bb-b483-be70b6e4cb73",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -4000,
+        "balance": 5443.38,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-4000",
+          "Saldo": "5443.38"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "159beb65-a77d-450e-a9be-3edb06c181a8",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Härryda kommun",
+        "amount": -1485,
+        "balance": 9443.38,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Härryda kommun",
+          "Belopp": "-1485",
+          "Saldo": "9443.38"
+        },
+        "subcategory": "Förskola"
+      },
+      {
+        "id": "a5a72bfe-9f08-408c-ae20-026c9633e397",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Sveriges Ingenjörer",
+        "amount": -270,
+        "balance": 10928.38,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Sveriges Ingenjörer",
+          "Belopp": "-270",
+          "Saldo": "10928.38"
+        },
+        "subcategory": "Medlemskap"
+      },
+      {
+        "id": "f9ea33e5-9907-4511-a2be-e67e72d30b13",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "CSN Centrala studiestödsn",
+        "amount": -1422,
+        "balance": 11198.38,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "CSN Centrala studiestödsn",
+          "Belopp": "-1422",
+          "Saldo": "11198.38"
+        },
+        "subcategory": "Studielån"
+      },
+      {
+        "id": "03fb0bee-a914-4f65-93d8-93120309872f",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Autogiro AKADEMIKERFÖ",
+        "amount": -30,
+        "balance": 12620.38,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Autogiro AKADEMIKERFÖ",
+          "Belopp": "-30",
+          "Saldo": "12620.38"
+        },
+        "subcategory": "Försäkring"
+      },
+      {
+        "id": "10092b90-6aa7-4717-9a4a-04f8603c692a",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Autogiro K*adlibris.s",
+        "amount": -255,
+        "balance": 12650.38,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Autogiro K*adlibris.s",
+          "Belopp": "-255",
+          "Saldo": "12650.38"
+        },
+        "subcategory": "Böcker"
+      },
+      {
+        "id": "2831bf7b-cee7-4f76-8772-d62ef2984571",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Autogiro K* Klarna",
+        "amount": -368,
+        "balance": 12905.38,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Autogiro K* Klarna",
+          "Belopp": "-368",
+          "Saldo": "12905.38"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "bb558bd3-6e9f-491e-84c8-124fcaf87018",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Autogiro K*adlibris.s",
+        "amount": -368,
+        "balance": 13273.38,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Autogiro K*adlibris.s",
+          "Belopp": "-368",
+          "Saldo": "13273.38"
+        },
+        "subcategory": "Böcker"
+      },
+      {
+        "id": "7c1b9eb5-db80-4f00-a61f-5bfb09626d5c",
+        "date": "2025-12-29T23:00:00.000Z",
+        "description": "Autogiro K*Veloura-Ca",
+        "amount": -832,
+        "balance": 13641.38,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-30",
+          "Beskrivning": "Autogiro K*Veloura-Ca",
+          "Belopp": "-832",
+          "Saldo": "13641.38"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "14d5cc14-f6d8-4148-ace7-72a851cbd860",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "2025-12-28 APPLE.COM/BILL, 020100529",
+        "amount": -129,
+        "balance": 14473.38,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "2025-12-28 APPLE.COM/BILL, 020100529",
+          "Belopp": "-129",
+          "Saldo": "14473.38"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "5c313e51-7df0-4d22-8474-12b62eab21f0",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Swish till Vimla",
+        "amount": -40,
+        "balance": 14602.38,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Swish till Vimla",
+          "Belopp": "-40",
+          "Saldo": "14602.38"
+        },
+        "subcategory": "Telefon"
+      },
+      {
+        "id": "b5e2c87e-9e14-43e3-9827-ac06bcd6fc11",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Autogiro FRISKTANDV",
+        "amount": -65,
+        "balance": 14642.38,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Autogiro FRISKTANDV",
+          "Belopp": "-65",
+          "Saldo": "14642.38"
+        },
+        "subcategory": "Försäkring"
+      },
+      {
+        "id": "ae671cf9-71f5-4f83-87fe-261a59cf443e",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Autogiro Vimla",
+        "amount": -150,
+        "balance": 14707.38,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Autogiro Vimla",
+          "Belopp": "-150",
+          "Saldo": "14707.38"
+        },
+        "subcategory": "Telefon"
+      },
+      {
+        "id": "63337a99-ed9a-40e1-84c2-4a0179a022a3",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Autogiro AVANZA BANK",
+        "amount": -1000,
+        "balance": 14857.38,
+        "category": "Sparande",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Autogiro AVANZA BANK",
+          "Belopp": "-1000",
+          "Saldo": "14857.38"
+        },
+        "subcategory": "Avanza"
+      },
+      {
+        "id": "41ea12aa-87c1-42f7-bce1-79ff5f75e56a",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "2025-12-27 APPLE.COM/BILL, 020100529",
+        "amount": -99,
+        "balance": 15857.38,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "2025-12-27 APPLE.COM/BILL, 020100529",
+          "Belopp": "-99",
+          "Saldo": "15857.38"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "86947ab7-0cc0-4281-b133-c55e57b4dc8c",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "2025-12-26 SPOTIFY, STOCKHOLM",
+        "amount": -189,
+        "balance": 15956.38,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "2025-12-26 SPOTIFY, STOCKHOLM",
+          "Belopp": "-189",
+          "Saldo": "15956.38"
+        },
+        "subcategory": "Streaming"
+      },
+      {
+        "id": "6cc9ef2c-cdea-4f6f-8936-97f5c78c149c",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "2025-12-25 APCOA FLOW SE, STOCKHOLM",
+        "amount": -14.95,
+        "balance": 16145.38,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "2025-12-25 APCOA FLOW SE, STOCKHOLM",
+          "Belopp": "-14.95",
+          "Saldo": "16145.38"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "baf52f88-456c-4c53-b09a-1e5b98210016",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Överföring 9156-4716688",
+        "amount": -500,
+        "balance": 16160.33,
+        "category": "Sparande",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Överföring 9156-4716688",
+          "Belopp": "-500",
+          "Saldo": "16160.33"
+        },
+        "subcategory": "Sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "ba597c93-3a0f-4dfa-aaa7-83a648ef2846",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "2025-12-25 CLAUDE.AI SUBSCRIPTION, ANTHROPIC.COM",
+        "amount": -247.69,
+        "balance": 16660.33,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "2025-12-25 CLAUDE.AI SUBSCRIPTION, ANTHROPIC.COM",
+          "Belopp": "-247.69",
+          "Saldo": "16660.33"
+        },
+        "subcategory": "Programvara"
+      },
+      {
+        "id": "81a28ae0-d5e5-443f-bb4a-b320faf753c7",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Måbäcken",
+        "amount": -750,
+        "balance": 16908.02,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Måbäcken",
+          "Belopp": "-750",
+          "Saldo": "16908.02"
+        },
+        "subcategory": "Hyra"
+      },
+      {
+        "id": "c32b048d-3902-406d-9880-2166f88168e6",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Fiber",
+        "amount": 1395,
+        "balance": 17658.02,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Fiber",
+          "Belopp": "1395",
+          "Saldo": "17658.02"
+        },
+        "subcategory": "Återbetalning"
+      },
+      {
+        "id": "3a5b90cd-4649-469b-94c1-434e211e3a63",
+        "date": "2025-12-28T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -5000,
+        "balance": 16263.02,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-29",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-5000",
+          "Saldo": "16263.02"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "f015516c-a98e-4bdb-96fd-2346103c8576",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "Swish till Svenska Bio Filmstaden App",
+        "amount": -500.4,
+        "balance": 21263.02,
+        "category": "Nöje",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "Swish till Svenska Bio Filmstaden App",
+          "Belopp": "-500.4",
+          "Saldo": "21263.02"
+        },
+        "subcategory": "Bio"
+      },
+      {
+        "id": "89dd61a6-1231-4fcc-92fd-9456ef664c2c",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "Bredband2 AB Privat",
+        "amount": -1395,
+        "balance": 21763.42,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "Bredband2 AB Privat",
+          "Belopp": "-1395",
+          "Saldo": "21763.42"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "0c0db3e0-6b25-49c6-ac87-e7b74370f07a",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "Autogiro K*HBO Nordic",
+        "amount": -149,
+        "balance": 23158.42,
+        "category": "Prenumerationer",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "Autogiro K*HBO Nordic",
+          "Belopp": "-149",
+          "Saldo": "23158.42"
+        },
+        "subcategory": "Streaming"
+      },
+      {
+        "id": "e6a6b871-cf49-4980-b0e8-035a7ca3bf7f",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "Autogiro K*nike.com",
+        "amount": -307,
+        "balance": 23307.42,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "Autogiro K*nike.com",
+          "Belopp": "-307",
+          "Saldo": "23307.42"
+        },
+        "subcategory": "Klarna"
+      },
+      {
+        "id": "40b52e1b-8eb1-4c74-81e1-7bd05d9d6f1b",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "Hus Mats",
+        "amount": -5000,
+        "balance": 23614.42,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "Hus Mats",
+          "Belopp": "-5000",
+          "Saldo": "23614.42"
+        },
+        "subcategory": "Hus"
+      },
+      {
+        "id": "c2837f1c-ef58-4a43-ae1d-753e4dd26b41",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "Insättning från annan bank FKASSA",
+        "amount": 3971,
+        "balance": 28614.42,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "Insättning från annan bank FKASSA",
+          "Belopp": "3971",
+          "Saldo": "28614.42"
+        },
+        "subcategory": "Försäkringskassan"
+      },
+      {
+        "id": "486decab-fbb3-4b71-bcc2-9227f6aad38a",
+        "date": "2025-12-22T23:00:00.000Z",
+        "description": "LÖN",
+        "amount": 23439.1,
+        "balance": 24643.42,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-23",
+          "Beskrivning": "LÖN",
+          "Belopp": "23439.1",
+          "Saldo": "24643.42"
+        },
+        "subcategory": "Lön"
+      },
+      {
+        "id": "228e4c35-50e9-45fa-b9e7-647b73316be1",
+        "date": "2025-12-21T23:00:00.000Z",
+        "description": "2025-12-21 EPARK SESSION33131960, LULEA",
+        "amount": -50,
+        "balance": 1204.32,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-22",
+          "Beskrivning": "2025-12-21 EPARK SESSION33131960, LULEA",
+          "Belopp": "-50",
+          "Saldo": "1204.32"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "052c9480-d687-46ba-97e8-012798b9ca22",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "2025-12-18 SANDRA DOSÉ, HOVÅS",
+        "amount": -1050,
+        "balance": 1254.32,
+        "category": "Personlig vård",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "2025-12-18 SANDRA DOSÉ, HOVÅS",
+          "Belopp": "-1050",
+          "Saldo": "1254.32"
+        },
+        "subcategory": "Frisör"
+      },
+      {
+        "id": "cb23b0ee-3319-4062-8f55-4eace78c495d",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "2025-12-17 kontaktlös SV MESSAN G TOWERS REST, GOTEBORG",
+        "amount": -89,
+        "balance": 2304.32,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "2025-12-17 kontaktlös SV MESSAN G TOWERS REST, GOTEBORG",
+          "Belopp": "-89",
+          "Saldo": "2304.32"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "dc1ead42-77c0-4c90-bf0c-4dabe7088a8d",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "Swish till LARSEN MONICA",
+        "amount": -135,
+        "balance": 2393.32,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "Swish till LARSEN MONICA",
+          "Belopp": "-135",
+          "Saldo": "2393.32"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "3e2d5f93-b7fa-407c-95f9-c5b02d7c9f8e",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "Swish till Lars Ekberg",
+        "amount": -188,
+        "balance": 2528.32,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "Swish till Lars Ekberg",
+          "Belopp": "-188",
+          "Saldo": "2528.32"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "08057e84-bf1e-469e-824b-5d04bf0e13ed",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "Swish till Västtrafik To Go",
+        "amount": -37,
+        "balance": 2716.32,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "Swish till Västtrafik To Go",
+          "Belopp": "-37",
+          "Saldo": "2716.32"
+        },
+        "subcategory": "Kollektivtrafik"
+      },
+      {
+        "id": "85f66333-474a-4bc8-820c-ffabd09b465a",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "Insättning från annan bank BARNBDR",
+        "amount": 1325,
+        "balance": 2753.32,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "Insättning från annan bank BARNBDR",
+          "Belopp": "1325",
+          "Saldo": "2753.32"
+        },
+        "subcategory": "Barnbidrag"
+      },
+      {
+        "id": "e99ebc01-a06a-48b4-9b4e-5beebb1c2839",
+        "date": "2025-12-17T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 1100,
+        "balance": 1428.32,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-18",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "1100",
+          "Saldo": "1428.32"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "4d81318d-35aa-493b-b6b1-c7814da23f61",
+        "date": "2025-12-16T23:00:00.000Z",
+        "description": "2025-12-16 EPARK SESSION33065536, LULEA",
+        "amount": -99.43,
+        "balance": 328.32,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-17",
+          "Beskrivning": "2025-12-16 EPARK SESSION33065536, LULEA",
+          "Belopp": "-99.43",
+          "Saldo": "328.32"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "6806c6de-f262-43e3-98af-b981930f619d",
+        "date": "2025-12-16T23:00:00.000Z",
+        "description": "2025-12-16 kontaktlös FLOATING SAIGON, GOTEBORG",
+        "amount": -149,
+        "balance": 427.75,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-17",
+          "Beskrivning": "2025-12-16 kontaktlös FLOATING SAIGON, GOTEBORG",
+          "Belopp": "-149",
+          "Saldo": "427.75"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "401af07d-178c-492c-be77-8a2507cce4d9",
+        "date": "2025-12-16T23:00:00.000Z",
+        "description": "Swish till Västtrafik To Go",
+        "amount": -74,
+        "balance": 576.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-17",
+          "Beskrivning": "Swish till Västtrafik To Go",
+          "Belopp": "-74",
+          "Saldo": "576.75"
+        },
+        "subcategory": "Kollektivtrafik"
+      },
+      {
+        "id": "898d3330-5f4f-4d64-9a3e-74c593dc10cb",
+        "date": "2025-12-16T23:00:00.000Z",
+        "description": "Swish till Västtrafik To Go",
+        "amount": -74,
+        "balance": 650.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-17",
+          "Beskrivning": "Swish till Västtrafik To Go",
+          "Belopp": "-74",
+          "Saldo": "650.75"
+        },
+        "subcategory": "Kollektivtrafik"
+      },
+      {
+        "id": "5d979130-e51f-484f-9f19-2595d694eab8",
+        "date": "2025-12-15T23:00:00.000Z",
+        "description": "Swish till Västtrafik To Go",
+        "amount": -37,
+        "balance": 724.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-16",
+          "Beskrivning": "Swish till Västtrafik To Go",
+          "Belopp": "-37",
+          "Saldo": "724.75"
+        },
+        "subcategory": "Kollektivtrafik"
+      },
+      {
+        "id": "baa28b42-8729-455d-a6fa-9e10681b82f4",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Swish till Walley",
+        "amount": -907,
+        "balance": 761.75,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Swish till Walley",
+          "Belopp": "-907",
+          "Saldo": "761.75"
+        },
+        "subcategory": "Online"
+      },
+      {
+        "id": "2cb5290c-a9e3-4c36-9344-dac6cd01056a",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 1500,
+        "balance": 1668.75,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "1500",
+          "Saldo": "1668.75"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "241222c1-2a72-4e06-9442-527cf2b3287d",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 168.75,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "168.75"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "c5f67317-e259-4d2e-a01b-75f405bb8bfb",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "2025-12-13 AmazonMktplc*ZE52F7EM4, www.amazon.se",
+        "amount": -178,
+        "balance": 468.75,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "2025-12-13 AmazonMktplc*ZE52F7EM4, www.amazon.se",
+          "Belopp": "-178",
+          "Saldo": "468.75"
+        },
+        "subcategory": "Elektronik"
+      },
+      {
+        "id": "8ce17cd3-4658-46b8-b487-0160d52e5d57",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Swish till Pinchos Borås",
+        "amount": -742,
+        "balance": 646.75,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Swish till Pinchos Borås",
+          "Belopp": "-742",
+          "Saldo": "646.75"
+        },
+        "subcategory": "Swish"
+      },
+      {
+        "id": "9e0bbd79-d3b7-4390-b594-44e33ff53ac2",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 600,
+        "balance": 1388.75,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "600",
+          "Saldo": "1388.75"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "742bdcf6-8c60-44ab-b3fc-a2aa549fa533",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "2025-12-12 THAI SAMILA LANDVETTER, LANDVETTER",
+        "amount": -150,
+        "balance": 788.75,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "2025-12-12 THAI SAMILA LANDVETTER, LANDVETTER",
+          "Belopp": "-150",
+          "Saldo": "788.75"
+        },
+        "subcategory": "Restaurang"
+      },
+      {
+        "id": "e82584f3-06b9-4991-9f84-0f2b5fe6d0dc",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -945,
+        "balance": 938.75,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-945",
+          "Saldo": "938.75"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "e5021a24-e8d2-49ca-ab36-fe35dac465dd",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 1000,
+        "balance": 1883.75,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "1000",
+          "Saldo": "1883.75"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "056a83f8-27a9-4f36-ad16-559faca43b65",
+        "date": "2025-12-11T23:00:00.000Z",
+        "description": "2025-12-11 EPARK SESSION32939042, LULEA",
+        "amount": -50,
+        "balance": 883.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-12",
+          "Beskrivning": "2025-12-11 EPARK SESSION32939042, LULEA",
+          "Belopp": "-50",
+          "Saldo": "883.75"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "b143f501-40a3-45c6-88cb-c15e206f12d0",
+        "date": "2025-12-10T23:00:00.000Z",
+        "description": "2025-12-10 EPARK SESSION32907315, LULEA",
+        "amount": -50,
+        "balance": 933.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-11",
+          "Beskrivning": "2025-12-10 EPARK SESSION32907315, LULEA",
+          "Belopp": "-50",
+          "Saldo": "933.75"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "bac1fae5-6102-4214-90af-f6902417876f",
+        "date": "2025-12-10T23:00:00.000Z",
+        "description": "2025-12-10 EPARK TX32846596T743639, LULEA",
+        "amount": -50,
+        "balance": 983.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-11",
+          "Beskrivning": "2025-12-10 EPARK TX32846596T743639, LULEA",
+          "Belopp": "-50",
+          "Saldo": "983.75"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "b3b10476-6d92-433d-9a0c-431c6be2493d",
+        "date": "2025-12-09T23:00:00.000Z",
+        "description": "LÖN",
+        "amount": 800,
+        "balance": 1033.75,
+        "category": "Inkomst",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-10",
+          "Beskrivning": "LÖN",
+          "Belopp": "800",
+          "Saldo": "1033.75"
+        },
+        "subcategory": "Lön"
+      },
+      {
+        "id": "0b612392-07cd-4bf2-abbf-5cefb63d7024",
+        "date": "2025-12-08T23:00:00.000Z",
+        "description": "2025-12-08 S.M.A.K, GÖTEBORG",
+        "amount": -95,
+        "balance": 233.75,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-09",
+          "Beskrivning": "2025-12-08 S.M.A.K, GÖTEBORG",
+          "Belopp": "-95",
+          "Saldo": "233.75"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "5d6cff26-a887-4f35-be99-ed6b609c9778",
+        "date": "2025-12-08T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 328.75,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-09",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "328.75"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "57f82fef-647f-4fda-adab-22c61067abeb",
+        "date": "2025-12-08T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 500,
+        "balance": 628.75,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-09",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "500",
+          "Saldo": "628.75"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "76911bdb-2a83-4319-9e24-cdf66f1942b4",
+        "date": "2025-12-07T23:00:00.000Z",
+        "description": "Månadsavgift Bankkort",
+        "amount": -20,
+        "balance": 128.75,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-08",
+          "Beskrivning": "Månadsavgift Bankkort",
+          "Belopp": "-20",
+          "Saldo": "128.75"
+        },
+        "subcategory": "Diverse"
+      },
+      {
+        "id": "a0de6219-cf05-4925-8a95-6b9dc3ea2322",
+        "date": "2025-12-07T23:00:00.000Z",
+        "description": "2025-12-05 EPARK SESSION32783490, LULEA",
+        "amount": -50,
+        "balance": 148.75,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-08",
+          "Beskrivning": "2025-12-05 EPARK SESSION32783490, LULEA",
+          "Belopp": "-50",
+          "Saldo": "148.75"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "2de252e5-8d8a-4d5f-a96f-59b85a2cd446",
+        "date": "2026-03-08T23:00:00.000Z",
+        "description": "Kort spar",
+        "amount": 5000,
+        "balance": 13776.67,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-09",
+          "Beskrivning": "Kort spar",
+          "Belopp": "5000",
+          "Saldo": "13776.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "3614126e-66ea-4292-a85c-6a24218dd126",
+        "date": "2026-02-15T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -2000,
+        "balance": 8776.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-16",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-2000",
+          "Saldo": "8776.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "e46e5c06-94e4-40cc-b73b-d33192db5d3d",
+        "date": "2026-02-12T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -1500,
+        "balance": 10776.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-13",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-1500",
+          "Saldo": "10776.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "17d40450-bb3b-460f-9d57-bfa381a0151d",
+        "date": "2026-02-11T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -800,
+        "balance": 12276.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-12",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-800",
+          "Saldo": "12276.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "18f4edb1-e829-40ab-9752-d808e6a72a30",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -2500,
+        "balance": 13076.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-2500",
+          "Saldo": "13076.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "bfd4f96f-df1b-47fa-ab56-1488caa99931",
+        "date": "2026-02-08T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -1000,
+        "balance": 15576.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-09",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-1000",
+          "Saldo": "15576.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "3c99cffb-2299-4831-af04-348d0eb56539",
+        "date": "2026-02-01T23:00:00.000Z",
+        "description": "Överf. M. Persson",
+        "amount": 7000,
+        "balance": 16576.67,
+        "category": "Sparande",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-02-02",
+          "Beskrivning": "Överf. M. Persson",
+          "Belopp": "7000",
+          "Saldo": "16576.67"
+        },
+        "subcategory": "Tillfälligt sparkonto",
+        "isTransfer": true
+      },
+      {
+        "id": "e039eec1-e41f-425f-9afb-4dc7934663f2",
+        "date": "2026-01-18T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -500,
+        "balance": 9576.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-19",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-500",
+          "Saldo": "9576.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "fad6f05e-35dd-469d-a9bc-2423aa1ac798",
+        "date": "2026-01-15T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -700,
+        "balance": 10076.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-16",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-700",
+          "Saldo": "10076.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "78c37635-b597-4654-b9c4-d180c35de464",
+        "date": "2026-01-12T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -500,
+        "balance": 10776.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-13",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-500",
+          "Saldo": "10776.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "1065daa9-beda-4469-a352-a25ee1a7abba",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -1500,
+        "balance": 11276.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-1500",
+          "Saldo": "11276.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "d493d2d4-e5ac-43bf-9001-95f68dfa4017",
+        "date": "2026-01-11T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -1000,
+        "balance": 12776.67,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2026-01-12",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-1000",
+          "Saldo": "12776.67"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "3652e2bc-871b-4062-87e6-f4e939cf6f2e",
+        "date": "2025-12-30T23:00:00.000Z",
+        "description": "Preliminär skatt",
+        "amount": -32,
+        "balance": 13776.67,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-31",
+          "Beskrivning": "Preliminär skatt",
+          "Belopp": "-32",
+          "Saldo": "13776.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "51e6788a-ecb9-498b-b949-71ecb20bf746",
+        "date": "2025-12-30T23:00:00.000Z",
+        "description": "Ränta på tillgodohavandet",
+        "amount": 107.56,
+        "balance": 13808.67,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-31",
+          "Beskrivning": "Ränta på tillgodohavandet",
+          "Belopp": "107.56",
+          "Saldo": "13808.67"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "e56914a4-a602-451e-9c09-7c93fed7f6a7",
+        "date": "2025-12-21T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -1000,
+        "balance": 13701.11,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-22",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-1000",
+          "Saldo": "13701.11"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "373f8ea0-47ed-411a-a470-b65f5a1b7986",
+        "date": "2025-12-18T23:00:00.000Z",
+        "description": "Bilservice",
+        "amount": -6000,
+        "balance": 14701.11,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-19",
+          "Beskrivning": "Bilservice",
+          "Belopp": "-6000",
+          "Saldo": "14701.11"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "54dd1be3-6b21-40ff-a2ef-8619da5d8772",
+        "date": "2025-12-17T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -1100,
+        "balance": 20701.11,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-18",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-1100",
+          "Saldo": "20701.11"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "c3df9a68-0693-407f-b58d-a3bff091c738",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -1500,
+        "balance": 21801.11,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-1500",
+          "Saldo": "21801.11"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "21eafb46-f324-454b-ae64-88b58e05ba7d",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -600,
+        "balance": 23301.11,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-600",
+          "Saldo": "23301.11"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "6e66b1e2-ae7a-4cab-b9e4-7d08dc32c583",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överföring 9159 6229715",
+        "amount": -3000,
+        "balance": 23901.11,
+        "category": "Fasta utgifter",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överföring 9159 6229715",
+          "Belopp": "-3000",
+          "Saldo": "23901.11"
+        },
+        "subcategory": "Familjeöverföring"
+      },
+      {
+        "id": "4a3ff007-b078-462c-bd50-fa8a32454252",
+        "date": "2025-12-14T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -1000,
+        "balance": 26901.11,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-15",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-1000",
+          "Saldo": "26901.11"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "71b58843-cdbe-4ec7-9aa4-941bdb2559d9",
+        "date": "2025-12-08T23:00:00.000Z",
+        "description": "Överföring 9159 3871807",
+        "amount": -500,
+        "balance": 27901.11,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Sparkonto",
+        "rawData": {
+          "Bokf. datum": "2025-12-09",
+          "Beskrivning": "Överföring 9159 3871807",
+          "Belopp": "-500",
+          "Saldo": "27901.11"
+        },
+        "subcategory": "Okategoriserad"
+      }
+    ]
+  }
+}
