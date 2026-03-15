@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "syncedAt": "2026-03-15T06:37:44.139Z",
+  "syncedAt": "2026-03-15T06:52:50.981Z",
   "keys": {
     "budget-tool-scenarios": [
       {
@@ -119,7 +119,7 @@
           {
             "id": "nyek9on",
             "label": "Sparkonto inför flytt",
-            "amount": 7000,
+            "amount": 6000,
             "group": "savings"
           },
           {
@@ -133,6 +133,13 @@
             "label": "Måbäcken saker",
             "amount": 1000,
             "group": "expense"
+          },
+          {
+            "id": "ot0itd4",
+            "label": "Transport",
+            "amount": 1295,
+            "group": "expense",
+            "tentative": true
           }
         ],
         "mySharePercent": 50,
@@ -213,7 +220,8 @@
             "id": "oxlrp3t",
             "label": "Transport",
             "amount": 1295,
-            "group": "expense"
+            "group": "expense",
+            "tentative": true
           },
           {
             "id": "dh77h3k",
@@ -262,6 +270,12 @@
             "label": "Fasta utgifter - Fiber/tv",
             "amount": 350,
             "group": "expense"
+          },
+          {
+            "id": "ltnn2jt",
+            "label": "Parkering",
+            "amount": 500,
+            "group": "expense"
           }
         ],
         "mySharePercent": 50,
@@ -269,6 +283,27 @@
       }
     ],
     "budget-tool-gdrive-folder-name": "Budget-verktyg-filer",
+    "budget-tool-budgeted-amounts": {
+      "Fasta utgifter - Hus": 5000,
+      "Fasta utgifter - Familjeöverföring": 7500,
+      "Fasta utgifter - Förskola": 1485,
+      "Fasta utgifter - Studielån": 1757,
+      "Fasta utgifter - Hyra": 750,
+      "Fasta utgifter - Medlemskap": 270,
+      "Fasta utgifter - Försäkring": 95,
+      "Prenumerationer - Programvara": 502,
+      "Prenumerationer - Streaming": 358,
+      "Prenumerationer - Telefon": 150,
+      "Transport": 1295,
+      "Mat & Dryck - Lunch": 1200,
+      "Mat & Dryck - Mataffär": 1000,
+      "Personlig vård": 725,
+      "Shopping": 800,
+      "Nöje": 500,
+      "Sparande - Avanza": 1000,
+      "Sparande - Sparkonto": 500,
+      "Transport - Parkering": 500
+    },
     "budget-tool-transactions": [
       {
         "id": "9f48200b-7553-4766-9497-fa8ec337753e",
