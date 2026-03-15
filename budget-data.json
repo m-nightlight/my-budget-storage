@@ -1,62 +1,274 @@
 {
   "version": "1.0",
-  "syncedAt": "2026-03-11T14:48:48.186Z",
+  "syncedAt": "2026-03-15T06:37:44.139Z",
   "keys": {
-    "budget-tool-projects": [
+    "budget-tool-scenarios": [
       {
-        "name": "Flytt till Doktor Sydows gata 3C",
-        "emoji": "🛏",
-        "description": "Flytt till stan 4:e maj. Temporärt boende",
-        "status": "planning",
-        "id": "mmm5dh03cpovz2tymks",
+        "id": "n6qfkca",
+        "name": "Mellantiden med kapad boendekostnad",
+        "description": "Två löner där det är sagt att jag inte skall betala boendekostnad i Landvetter -> spara mer inför flytt",
         "items": [
           {
-            "name": "Ikea Vihals 140x200",
-            "price": 2795,
-            "quantity": 1,
-            "url": "https://www.ikea.com/se/sv/p/vihals-saengstomme-med-1-undersaeng-vit-luroey-s09582027/",
-            "notes": "Enkel, men ändå mångsidig, sängstomme med undersäng för en oväntad gäst. En smart lösning som matchar de andra möblerna i serien VIHALS.",
-            "status": "considering",
-            "images": [],
-            "id": "mmm5grpx4dnyf5s4b6i",
-            "createdAt": "2026-03-11T14:44:17.878Z"
+            "id": "pt1rk8t",
+            "label": "Lön",
+            "amount": 27500,
+            "group": "income"
           },
           {
-            "name": "Ikea Valehåg madrass",
-            "price": 2995,
-            "quantity": 1,
-            "url": "https://www.ikea.com/se/sv/p/valevag-pocketresarmadrass-fast-ljusbla-00450658/",
-            "status": "considering",
-            "images": [],
-            "id": "mmm5izmzimpryjb4rml",
-            "createdAt": "2026-03-11T14:46:01.451Z"
+            "id": "ai313mc",
+            "label": "Fasta utgifter - Familjeöverföring",
+            "amount": 5000,
+            "group": "expense"
           },
           {
-            "name": "Ikea Råholmar",
-            "price": 5690,
-            "quantity": 1,
-            "url": "https://www.ikea.com/se/sv/p/raholmar-resarbtn-m-pocketresarkaerna-5-zoner-inkl-ben-och-baeddmadrass-medium-fast-knisa-ljusbeige-nordberget-s29593322/",
-            "notes": "En komplett 140x200 säng istället kanske? Paket inklusive ben och bäddmadrass så ganska prisvärt.",
-            "status": "considering",
-            "images": [],
-            "id": "mmm5lenijrb0eaf40y",
-            "createdAt": "2026-03-11T14:47:54.222Z"
-          }
-        ],
-        "comparisonGroups": [
+            "id": "rxsayp4",
+            "label": "Fasta utgifter - Förskola",
+            "amount": 1485,
+            "group": "expense"
+          },
           {
-            "name": "Vilken säng? ",
-            "id": "mmm5lvk7d8asar6d67g",
-            "options": [],
-            "createdAt": "2026-03-11T14:48:16.135Z"
+            "id": "c0co849",
+            "label": "Fasta utgifter - Studielån",
+            "amount": 1422,
+            "group": "expense"
+          },
+          {
+            "id": "ydahus9",
+            "label": "Fasta utgifter - Hyra",
+            "amount": 750,
+            "group": "expense"
+          },
+          {
+            "id": "cl9lmxa",
+            "label": "Fasta utgifter - Medlemskap",
+            "amount": 270,
+            "group": "expense"
+          },
+          {
+            "id": "qmoyyr3",
+            "label": "Fasta utgifter - Försäkring",
+            "amount": 95,
+            "group": "expense"
+          },
+          {
+            "id": "1qgha19",
+            "label": "Prenumerationer - Programvara",
+            "amount": 502,
+            "group": "expense"
+          },
+          {
+            "id": "9s17reu",
+            "label": "Prenumerationer - Streaming",
+            "amount": 358,
+            "group": "expense"
+          },
+          {
+            "id": "tx4gqce",
+            "label": "Prenumerationer - Telefon",
+            "amount": 150,
+            "group": "expense"
+          },
+          {
+            "id": "1p8gj1y",
+            "label": "Parkering",
+            "amount": 500,
+            "group": "expense"
+          },
+          {
+            "id": "tk40l1d",
+            "label": "Mat & Dryck - Lunch",
+            "amount": 1200,
+            "group": "expense"
+          },
+          {
+            "id": "o8zxq3q",
+            "label": "Mat & Dryck - Mataffär",
+            "amount": 2000,
+            "group": "expense"
+          },
+          {
+            "id": "kdgobfn",
+            "label": "Personlig vård",
+            "amount": 725,
+            "group": "expense"
+          },
+          {
+            "id": "u3kcpdq",
+            "label": "Shopping",
+            "amount": 800,
+            "group": "expense"
+          },
+          {
+            "id": "axqsijt",
+            "label": "Nöje",
+            "amount": 500,
+            "group": "expense"
+          },
+          {
+            "id": "uzj2mib",
+            "label": "Avanza",
+            "amount": 1000,
+            "group": "savings"
+          },
+          {
+            "id": "ee4u84y",
+            "label": "Sparkonto",
+            "amount": 500,
+            "group": "savings"
+          },
+          {
+            "id": "nyek9on",
+            "label": "Sparkonto inför flytt",
+            "amount": 7000,
+            "group": "savings"
+          },
+          {
+            "id": "6uzej65",
+            "label": "Sparande Måbäcken",
+            "amount": 1000,
+            "group": "savings"
+          },
+          {
+            "id": "46q9p7c",
+            "label": "Måbäcken saker",
+            "amount": 1000,
+            "group": "expense"
           }
         ],
-        "createdAt": "2026-03-11T14:41:44.019Z",
-        "updatedAt": "2026-03-11T14:48:16.135Z"
+        "mySharePercent": 50,
+        "createdAt": "2026-03-15T06:28:14.261Z"
+      },
+      {
+        "id": "eztyr8a",
+        "name": "Doktor Sydows gata 3c + Vattenrännevägen",
+        "description": "Temporärt boende i lägenhet där vi turas om att bo",
+        "items": [
+          {
+            "id": "6995j0m",
+            "label": "Lön",
+            "amount": 27500,
+            "group": "income"
+          },
+          {
+            "id": "8jzn2jt",
+            "label": "Fasta utgifter - Hyra",
+            "amount": 8000,
+            "group": "expense"
+          },
+          {
+            "id": "ey8rj3j",
+            "label": "Fasta utgifter - Familjeöverföring",
+            "amount": 5000,
+            "group": "expense"
+          },
+          {
+            "id": "klnh72x",
+            "label": "Fasta utgifter - Förskola",
+            "amount": 1485,
+            "group": "expense"
+          },
+          {
+            "id": "z6v4jqa",
+            "label": "Fasta utgifter - Studielån",
+            "amount": 1422,
+            "group": "expense"
+          },
+          {
+            "id": "wdeq3xv",
+            "label": "Fasta utgifter - Hyra",
+            "amount": 750,
+            "group": "expense"
+          },
+          {
+            "id": "m18s6u4",
+            "label": "Fasta utgifter - Medlemskap",
+            "amount": 270,
+            "group": "expense"
+          },
+          {
+            "id": "pfmimub",
+            "label": "Fasta utgifter - Försäkring",
+            "amount": 95,
+            "group": "expense"
+          },
+          {
+            "id": "r5mevnv",
+            "label": "Prenumerationer - Programvara",
+            "amount": 502,
+            "group": "expense"
+          },
+          {
+            "id": "cqhvupz",
+            "label": "Prenumerationer - Streaming",
+            "amount": 358,
+            "group": "expense"
+          },
+          {
+            "id": "rwmb71x",
+            "label": "Prenumerationer - Telefon",
+            "amount": 150,
+            "group": "expense"
+          },
+          {
+            "id": "oxlrp3t",
+            "label": "Transport",
+            "amount": 1295,
+            "group": "expense"
+          },
+          {
+            "id": "dh77h3k",
+            "label": "Mat & Dryck - Lunch",
+            "amount": 1200,
+            "group": "expense"
+          },
+          {
+            "id": "pgzb1i2",
+            "label": "Mat & Dryck - Mataffär",
+            "amount": 500,
+            "group": "expense"
+          },
+          {
+            "id": "8ecp9f9",
+            "label": "Personlig vård",
+            "amount": 725,
+            "group": "expense"
+          },
+          {
+            "id": "q788ow1",
+            "label": "Shopping",
+            "amount": 800,
+            "group": "expense"
+          },
+          {
+            "id": "woex56y",
+            "label": "Nöje",
+            "amount": 500,
+            "group": "expense"
+          },
+          {
+            "id": "g0s8phb",
+            "label": "Avanza",
+            "amount": 1000,
+            "group": "savings"
+          },
+          {
+            "id": "s2ak69i",
+            "label": "Sparkonto",
+            "amount": 500,
+            "group": "savings"
+          },
+          {
+            "id": "8cx1457",
+            "label": "Fasta utgifter - Fiber/tv",
+            "amount": 350,
+            "group": "expense"
+          }
+        ],
+        "mySharePercent": 50,
+        "createdAt": "2026-03-15T06:34:37.442Z"
       }
     ],
-    "budget-tool-gdrive-folder-id": "1q0aOnq_VpMDyO41VZDeQsT19rPoIY_nH",
-    "budget-tool-gdrive-client-id": "68224230230-2rf2fmrred0sffgg5cu5td5cg0683log.apps.googleusercontent.com",
+    "budget-tool-gdrive-folder-name": "Budget-verktyg-filer",
     "budget-tool-transactions": [
       {
         "id": "9f48200b-7553-4766-9497-fa8ec337753e",
@@ -74,7 +286,8 @@
           "Belopp": "-468",
           "Saldo": "3502.44"
         },
-        "subcategory": "Frisör"
+        "subcategory": "Frisör",
+        "notes": "Hårvax"
       },
       {
         "id": "9ba94c27-3591-414e-a4b2-beb38ce91c27",
@@ -3926,8 +4139,251 @@
           "Saldo": "27901.11"
         },
         "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "57f7b75a-4ea4-478f-a7ff-59a33a10f379",
+        "date": "2026-03-15T23:00:00.000Z",
+        "description": "2026-03-13 COOP SKENE, SKENE",
+        "amount": -137.58,
+        "balance": 1830.16,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-16",
+          "Beskrivning": "2026-03-13 COOP SKENE, SKENE",
+          "Belopp": "-137.58",
+          "Saldo": "1830.16"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "d33e814c-0972-4fbc-a1ee-0117786f1033",
+        "date": "2026-03-15T23:00:00.000Z",
+        "description": "2026-03-13 OSTERBERGS FISK, LANDVETTER",
+        "amount": -379,
+        "balance": 1967.74,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-16",
+          "Beskrivning": "2026-03-13 OSTERBERGS FISK, LANDVETTER",
+          "Belopp": "-379",
+          "Saldo": "1967.74"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "02cecde6-540a-4b32-a10e-67ec7c50727f",
+        "date": "2026-03-15T23:00:00.000Z",
+        "description": "2026-03-13 EPARK SESSION35171126, LULEA",
+        "amount": -50,
+        "balance": 2346.74,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-16",
+          "Beskrivning": "2026-03-13 EPARK SESSION35171126, LULEA",
+          "Belopp": "-50",
+          "Saldo": "2346.74"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "b999a57b-58c6-4741-8fde-feece0ef2896",
+        "date": "2026-03-12T23:00:00.000Z",
+        "description": "2026-03-12 LIDL364HARRYDAMOLNLYCK, STOCKHOLM",
+        "amount": -251.2,
+        "balance": 2396.74,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-13",
+          "Beskrivning": "2026-03-12 LIDL364HARRYDAMOLNLYCK, STOCKHOLM",
+          "Belopp": "-251.2",
+          "Saldo": "2396.74"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "b6f02474-cca8-4d09-b738-35b7d008e154",
+        "date": "2026-03-12T23:00:00.000Z",
+        "description": "2026-03-12 HEMKOP MOLNLYCKE C, MOLNLYCKE",
+        "amount": -108.5,
+        "balance": 2647.94,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-13",
+          "Beskrivning": "2026-03-12 HEMKOP MOLNLYCKE C, MOLNLYCKE",
+          "Belopp": "-108.5",
+          "Saldo": "2647.94"
+        },
+        "subcategory": "Mataffär"
+      },
+      {
+        "id": "31ec1dc5-9a45-4232-9c46-c48652bc8d6e",
+        "date": "2026-03-09T23:00:00.000Z",
+        "description": "Swish till Chalmers Studentkårs Restaurang AB",
+        "amount": -300,
+        "balance": 2756.44,
+        "category": "Mat & Dryck",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-10",
+          "Beskrivning": "Swish till Chalmers Studentkårs Restaurang AB",
+          "Belopp": "-300",
+          "Saldo": "2756.44"
+        },
+        "subcategory": "Lunch"
+      },
+      {
+        "id": "3070238c-b43f-4024-a8ff-7fe11bc5a3ea",
+        "date": "2026-03-09T23:00:00.000Z",
+        "description": "Autogiro K*coolshop.s",
+        "amount": -355,
+        "balance": 3056.44,
+        "category": "Shopping",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-10",
+          "Beskrivning": "Autogiro K*coolshop.s",
+          "Belopp": "-355",
+          "Saldo": "3056.44"
+        },
+        "subcategory": "Elektronik",
+        "notes": "Amazon fire stick TV till Måbäcken"
+      },
+      {
+        "id": "fa5fcfa3-c932-4818-8a75-88bab3e95b1a",
+        "date": "2026-03-08T23:00:00.000Z",
+        "description": "2026-03-06 PARKERING GÖTEB, GÖTEBORG",
+        "amount": -91,
+        "balance": 3411.44,
+        "category": "Transport",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-09",
+          "Beskrivning": "2026-03-06 PARKERING GÖTEB, GÖTEBORG",
+          "Belopp": "-91",
+          "Saldo": "3411.44"
+        },
+        "subcategory": "Parkering"
+      },
+      {
+        "id": "33df3b07-3c96-4e28-a0e5-ceedc3d72377",
+        "date": "2026-03-08T23:00:00.000Z",
+        "description": "Kort spar",
+        "amount": -5000,
+        "balance": 3502.44,
+        "category": "Övrigt",
+        "isIncome": false,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-09",
+          "Beskrivning": "Kort spar",
+          "Belopp": "-5000",
+          "Saldo": "3502.44"
+        },
+        "subcategory": "Okategoriserad"
+      },
+      {
+        "id": "e47f63c7-fb0f-4036-b162-69ccaa0d210b",
+        "date": "2026-03-08T23:00:00.000Z",
+        "description": "Mats tillbaka dubbelbetalning",
+        "amount": 5000,
+        "balance": 8502.44,
+        "category": "Övrigt",
+        "isIncome": true,
+        "isIgnored": false,
+        "account": "Huvudkonto",
+        "rawData": {
+          "Bokf. datum": "2026-03-09",
+          "Beskrivning": "Mats tillbaka dubbelbetalning",
+          "Belopp": "5000",
+          "Saldo": "8502.44"
+        },
+        "subcategory": "Okategoriserad"
       }
     ],
-    "budget-tool-gdrive-folder-name": "Budget-verktyg-filer"
+    "budget-tool-projects": [
+      {
+        "name": "Flytt till Doktor Sydows gata 3C",
+        "emoji": "🛏",
+        "description": "Flytt till stan 4:e maj. Temporärt boende",
+        "status": "planning",
+        "id": "mmm5dh03cpovz2tymks",
+        "items": [
+          {
+            "name": "Ikea Vihals 140x200",
+            "price": 2795,
+            "quantity": 1,
+            "url": "https://www.ikea.com/se/sv/p/vihals-saengstomme-med-1-undersaeng-vit-luroey-s09582027/",
+            "notes": "Enkel, men ändå mångsidig, sängstomme med undersäng för en oväntad gäst. En smart lösning som matchar de andra möblerna i serien VIHALS.",
+            "status": "considering",
+            "images": [],
+            "id": "mmm5grpx4dnyf5s4b6i",
+            "createdAt": "2026-03-11T14:44:17.878Z"
+          },
+          {
+            "name": "Ikea Valehåg madrass",
+            "price": 2995,
+            "quantity": 1,
+            "url": "https://www.ikea.com/se/sv/p/valevag-pocketresarmadrass-fast-ljusbla-00450658/",
+            "status": "considering",
+            "images": [],
+            "id": "mmm5izmzimpryjb4rml",
+            "createdAt": "2026-03-11T14:46:01.451Z"
+          },
+          {
+            "name": "Ikea Råholmar",
+            "price": 5690,
+            "quantity": 1,
+            "url": "https://www.ikea.com/se/sv/p/raholmar-resarbtn-m-pocketresarkaerna-5-zoner-inkl-ben-och-baeddmadrass-medium-fast-knisa-ljusbeige-nordberget-s29593322/",
+            "notes": "En komplett 140x200 säng istället kanske? Paket inklusive ben och bäddmadrass så ganska prisvärt.",
+            "status": "considering",
+            "images": [],
+            "id": "mmm5lenijrb0eaf40y",
+            "createdAt": "2026-03-11T14:47:54.222Z"
+          }
+        ],
+        "comparisonGroups": [
+          {
+            "name": "Vilken säng? ",
+            "id": "mmm5lvk7d8asar6d67g",
+            "options": [],
+            "createdAt": "2026-03-11T14:48:16.135Z"
+          }
+        ],
+        "createdAt": "2026-03-11T14:41:44.019Z",
+        "updatedAt": "2026-03-11T14:48:16.135Z"
+      }
+    ],
+    "budget-tool-gdrive-client-id": "68224230230-2rf2fmrred0sffgg5cu5td5cg0683log.apps.googleusercontent.com",
+    "budget-tool-gdrive-folder-id": "1q0aOnq_VpMDyO41VZDeQsT19rPoIY_nH",
+    "budget-tool-planned": [
+      {
+        "id": "0a84c3dd-5dab-4d2e-8106-b5aa8ffe8d1a",
+        "description": "Västtrafik Busskort",
+        "amount": -1295,
+        "month": "2026-02"
+      }
+    ]
   }
 }
