@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "syncedAt": "2026-03-15T06:52:50.981Z",
+  "syncedAt": "2026-03-21T06:27:38.082Z",
   "keys": {
     "budget-tool-scenarios": [
       {
@@ -304,6 +304,34 @@
       "Sparande - Sparkonto": 500,
       "Transport - Parkering": 500
     },
+    "budget-tool-gdrive-folder-id": "1q0aOnq_VpMDyO41VZDeQsT19rPoIY_nH",
+    "budget-tool-budget-versions": [
+      {
+        "id": "40e41581-0b16-4458-8f87-9b0890485b78",
+        "effectiveFrom": "2020-01",
+        "label": "Ursprunglig budget",
+        "amounts": {
+          "Fasta utgifter - Hus": 5000,
+          "Fasta utgifter - Familjeöverföring": 7500,
+          "Fasta utgifter - Förskola": 1485,
+          "Fasta utgifter - Studielån": 1422,
+          "Fasta utgifter - Hyra": 750,
+          "Fasta utgifter - Försäkring": 95,
+          "Prenumerationer - Programvara": 502,
+          "Prenumerationer - Streaming": 358,
+          "Prenumerationer - Telefon": 150,
+          "Transport": 970,
+          "Mat & Dryck - Lunch": 1200,
+          "Mat & Dryck - Mataffär": 500,
+          "Personlig vård": 725,
+          "Shopping": 800,
+          "Nöje": 500,
+          "Sparande - Avanza": 1000,
+          "Sparande - Sparkonto": 500,
+          "Fasta utgifter - Medlemskap Ingenjörerna": 270
+        }
+      }
+    ],
     "budget-tool-transactions": [
       {
         "id": "9f48200b-7553-4766-9497-fa8ec337753e",
@@ -4411,7 +4439,6 @@
       }
     ],
     "budget-tool-gdrive-client-id": "68224230230-2rf2fmrred0sffgg5cu5td5cg0683log.apps.googleusercontent.com",
-    "budget-tool-gdrive-folder-id": "1q0aOnq_VpMDyO41VZDeQsT19rPoIY_nH",
     "budget-tool-planned": [
       {
         "id": "0a84c3dd-5dab-4d2e-8106-b5aa8ffe8d1a",
